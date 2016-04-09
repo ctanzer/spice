@@ -1,0 +1,27 @@
+Circuit: * D:\Elektronik\LTSpice\Projekte\ind_last\ind_last.asc
+
+Direct Newton iteration for .op point succeeded.
+.step r=1
+.step r=2
+.step r=3
+.step r=4
+.step r=5
+
+Date: Wed Mar 16 15:40:08 2016
+Total elapsed time: 0.485 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 77425
+traniter = 77420
+tranpoints = 30766
+accept = 30615
+rejected = 151
+matrix size = 11
+fillins = 1
+solver = Normal
+Matrix Compiler1: 548 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 821 bytes object code size  0.1/0.1/[0.0]
+
+

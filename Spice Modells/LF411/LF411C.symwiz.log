@@ -1,0 +1,13 @@
+STATUS: PSpice Model Import Wizard for "Capture" (16.6.0.d001)
+STATUS:  
+   INFO: LIB driven flow
+   INFO: Input File: D:\Elektronik\Spice Modells\LF411\LF411C.lib
+   INFO: Output File: D:\Elektronik\Spice Modells\LF411\LF411C.olb
+STATUS:  
+STATUS: Identifying matching symbols automatically...started at Thursday, November 20, 2014 10:53:23
+STATUS:  
+STATUS:  
+STATUS: Completed identifying matching symbols automatically...at Thursday, November 20, 2014 10:53:24
+STATUS:  
+   INFO: Symbol "LF411C" created for model "LF411C".
+STATUS: 0 Error messages, 0 Warning messages

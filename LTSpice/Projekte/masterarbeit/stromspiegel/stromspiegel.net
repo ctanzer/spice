@@ -1,0 +1,13 @@
+* D:\Elektronik\LTSpice\Projekte\masterarbeit\stromspiegel\stromspiegel.asc
+V1 N001 0 .8
+R1 N001 N002 20
+M1 N001 N002 0 0 NMOS l=22n w={w}
+M2 N002 N002 0 0 NMOS l=22n w=44n
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Program Files (x86)\LTC\LTspiceIV\lib\cmp\standard.mos
+.inc D:\Elektronik\Spice Modells\22nm MOSFET\22nm_PTM-original.lib
+.op
+.step param w 44n 176n 44n
+.backanno
+.end

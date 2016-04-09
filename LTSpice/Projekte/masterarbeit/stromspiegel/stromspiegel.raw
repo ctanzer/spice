@@ -1,0 +1,40 @@
+Title: * D:\Elektronik\LTSpice\Projekte\masterarbeit\stromspiegel\stromspiegel.asc
+Date: Sat Apr 09 18:25:48 2016
+Plotname: Operating Point
+Flags: real stepped
+No. Variables: 17
+No. Points:            4
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Variables:
+	0	w	param
+	1	V(n001)	voltage
+	2	V(n002)	voltage
+	3	V(m2#dbody)	voltage
+	4	V(m2#sbody)	voltage
+	5	V(m1#dbody)	voltage
+	6	V(m1#sbody)	voltage
+	7	Id(M2)	device_current
+	8	Ig(M2)	device_current
+	9	Ib(M2)	device_current
+	10	Is(M2)	device_current
+	11	Id(M1)	device_current
+	12	Ig(M1)	device_current
+	13	Ib(M1)	device_current
+	14	Is(M1)	device_current
+	15	I(R1)	device_current
+	16	I(V1)	device_current
+Binary:
+g5_P÷g>млL?═аL?0}Р,гOf+^┼Р,]f+
+7ц$3-fнl╚
+╥C7Х&3-║шl╚M╥+
+77▐╥g5_P÷w>млL?═аL?0}Р,гOf+У,{Бz+
+7ц$3-fнl╚
+╥t═7╓Zм-sмw╚│═╥9
+7▒≈Г╥JhG|╥│>млL?═аL?0}Р,гOf+╟╘В,н╚┤+
+7ц$3-fнl╚
+╥╔XЬ7╨▐ .K[│╚╦XЬ╥H
+7ДН╦g5_P÷┤>млL?═аL?0}Р,гOf+в7З,lД▒+
+7ц$3-fнl╚
+╥>G(8ыqZ.рн├╚KG(╦V
+7т	L╦

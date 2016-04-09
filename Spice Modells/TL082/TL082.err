@@ -1,0 +1,9 @@
+STATUS: PSpice Schematics to Capture translator (16.6.0.d001)
+STATUS:  
+STATUS: Translator started at Thursday, November 20, 2014 11:13:04
+INFO(ORSCH-1029): Using existing library 'C:\OrCAD\OrCAD_16.6_Lite\tools\Capture\Library\PSpice\modeled.etc'.
+INFO(ORSCH-1031): Created new library 'D:\Elektronik\Spice Modells\TL082\TL082.olb'.
+INFO(ORSCH-1029): Using existing library 'C:\OrCAD\OrCAD_16.6_Lite\tools\capture\library\OPAmp.olb'.
+INFO(ORSCH-1029): Using existing library 'C:\OrCAD\OrCAD_16.6_Lite\tools\capture\library\tex_inst.olb'.
+STATUS: Translator stopped at Thursday, November 20, 2014 11:15:27
+STATUS: 0 Error messages, 0 Warning messages
