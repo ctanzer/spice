@@ -1,0 +1,12 @@
+* D:\Benutzer\Chrisu\Desktop\git\spice\LTSpice\Projekte\masterarbeit\differenzverstaerker\differenzverstaerker.asc
+M1 vd vg 0 0 NMOS l=28n w=56n
+M2 vd vg 0 0 NMOS
+VDD vd 0 .8
+VG vg 0 0
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Program Files (x86)\LTC\LTspiceIV\lib\cmp\standard.mos
+.dc VG 0 .8 .01
+.inc D:\Benutzer\Chrisu\Desktop\git\spice\Spice Modells\22nm MOSFET/22nm_PTM-original.lib
+.backanno
+.end
